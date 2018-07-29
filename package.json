@@ -1,0 +1,12 @@
+{
+  "name": "fallview",
+  "version": "0.1.0",
+  "description": "A DOM based Vue Alternative",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx serve",
+    "start:docs": "npx vuepress dev docs"
+  },
+  "author": "SimplyCodin",
+  "license": "MIT"
+}
